@@ -11,3 +11,6 @@
 ## Count substring
 ### Find count of sub string in string.
 
+## Text Warper
+### This function provides formatting of text by adjusting the line breaks in the input paragraph.
+
