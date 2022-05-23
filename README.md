@@ -8,3 +8,6 @@
 ## Find average
 ### find average of specific student.
 
+## Count substring
+### Find count of sub string in string.
+
