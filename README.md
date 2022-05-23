@@ -4,3 +4,7 @@
 
 ## smaller:
 ### find the students with min score  and specific rank(second min score, third min score,...etc)
+
+## Find average
+### find average of specific student.
+
