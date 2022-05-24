@@ -14,3 +14,7 @@
 ## Text Warper
 ### This function provides formatting of text by adjusting the line breaks in the input paragraph.
 
+## Draw Rangoli
+### Drawing an alphabet rangoli of size . 
+### Rangoli is a form of Indian folk art based on creation of patterns.
+
