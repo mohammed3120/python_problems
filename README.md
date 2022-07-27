@@ -18,3 +18,5 @@
 ### Drawing an alphabet rangoli of size . 
 ### Rangoli is a form of Indian folk art based on creation of patterns.
 
+## Get day name
+### Get day name based on date (MM DD YYYY). 
